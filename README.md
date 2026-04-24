@@ -1,14 +1,14 @@
 ## Hi there, I'm Panos! 👋
 
-I am a Computer Scientist and a curious coder, based in Greece. I like building projects to understand what is happening "under the hood".
+I am a Computer Scientist and a curious coder, based in Greece. I like building projects to understand how things work under the hood.
 
-Currently, I 'm participating in the [Data Engineering Zoomcamp 2026](https://datatalks.club/docs/courses/data-engineering-zoomcamp/) and I'm also enhancing my knowledge of backend architecture and system design.
+I'm currently working on DevOps concepts from *[DevOps Roadmap](https://roadmap.sh/devops)* and *[DevOps Zero To Hero](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)* from Abhishek Veeramalla and preparing for *[Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)*.
 
 ### Tools & Tech
-* Python, C, Go, JavaScript
+* Python, C, Go
 * Git, PostgreSQL, Docker
 
-### Contact Me
+### Happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-lioliopoulos/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/776901429385887796)
 
