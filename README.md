@@ -1,12 +1,14 @@
 ## Hi there, I'm Panos! 👋
 
-I am a Computer Scientist and a curious coder, based in Greece. I like building projects to understand how things work under the hood.
+I am a Developer (and DevOps wannabe) based in Greece. I like building projects to understand how things work under the hood.
 
-I'm currently working on DevOps concepts from *[DevOps Roadmap](https://roadmap.sh/devops)* and *[DevOps Zero To Hero](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)* from Abhishek Veeramalla and preparing for *[Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)*.
+<!-- I'm currently working on DevOps concepts from *[DevOps Roadmap](https://roadmap.sh/devops)* and *[DevOps Zero To Hero](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)* from Abhishek Veeramalla and preparing for *[Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)*. -->
 
-### Tools & Tech
-* Python, C, Go
-* Git, PostgreSQL, Docker
+I'm currently working on a peer-to-peer chat application utilizing [predictor compression](https://datatracker.ietf.org/doc/rfc1978/) algorithm. 
+
+### Languages & Tools
+* Python, C, Go, SQL
+* Git, Docker
 
 ### Happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-lioliopoulos/)
