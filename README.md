@@ -4,7 +4,7 @@ I am a Developer (and DevOps wannabe) based in Greece. I like building projects 
 
 <!-- I'm currently working on DevOps concepts from *[DevOps Roadmap](https://roadmap.sh/devops)* and *[DevOps Zero To Hero](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)* from Abhishek Veeramalla and preparing for *[Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)*. -->
 
-I'm currently working on a peer-to-peer chat application utilizing [predictor compression](https://datatracker.ietf.org/doc/rfc1978/) algorithm. 
+I'm currently working on custom application layer for a peer-to-peer chat application implementing [predictor compression](https://datatracker.ietf.org/doc/rfc1978/) algorithm. 
 
 ### Languages & Tools
 * Python, C, Go, SQL
@@ -13,6 +13,8 @@ I'm currently working on a peer-to-peer chat application utilizing [predictor co
 ### Happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-lioliopoulos/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/776901429385887796)
+
+
 
 
 
